@@ -1,0 +1,33 @@
+{
+  "name": "dynamic_table",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atinosun/dynamic_table.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "dynamic",
+    "table",
+    "RESTfulApi",
+    "Web"
+  ],
+  "author": "atinosun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atinosun/dynamic_table/issues"
+  },
+  "homepage": "https://github.com/atinosun/dynamic_table#readme"
+}
